@@ -1,0 +1,25 @@
+.admin-nav {
+  box-shadow: 0px 2px 5px 0px #efefef;
+}
+
+.brand-text {
+  color: blue;
+}
+
+.left-alignment {
+  margin-left: -25rem
+}
+
+.block-span {
+  display: block;
+}
+
+.navbar-search .input-group {
+  box-shadow: none;
+  border: 0px none;
+}
+
+.payments form {
+  margin-top: -0.5rem;
+  border-bottom: 1px solid grey;
+}
