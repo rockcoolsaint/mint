@@ -54,7 +54,7 @@ import {
 
 import Header from "components/Headers/Header.js";
 
-import ReactSearchBox from 'react-search-box';
+//import ReactSearchBox from 'react-search-box';
 
 class Index extends React.Component {
   constructor(props){

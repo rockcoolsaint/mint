@@ -78,7 +78,7 @@ class AdminNavbar extends React.Component {
                     <Media className="d-none d-lg-block">
                       <span className="block-span d-flex justify-content-end text-muted">Hello</span>
                       <span className="mb-0 text-sm font-weight-bold text-muted">
-                        Jessica Jones
+                        Oluwaleke Ojo
                       </span>
                     </Media>
                     <span className="avatar avatar-sm rounded-circle ml-2">
